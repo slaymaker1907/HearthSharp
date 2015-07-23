@@ -1,1 +1,2 @@
 E:\Code\csharp_code\HearthstoneSim\HearthstoneSim\bin\Debug\HearthstoneSim.exe.config
+C:\Users\Dyllon\Documents\GitHub\HearthSharp\src\csharp\HearthstoneSim\HearthstoneSim\bin\Debug\HearthstoneSim.exe.config
